@@ -28,7 +28,7 @@ Data = {
     }
 
 #Dataset read from excel:
-drugdata = pd.read_excel (r'C:\Users\Raja Vignesh\Downloads\Final_Drugs_Dataset_V3.xlsx')
+drugdata = pd.read_excel (r'https://github.com/rajavigneshselvamani/Data-Miners/blob/main/Final_Drugs_Dataset_V3.xlsx')
 #print (drugdata)
 df = DataFrame(Data, columns=['Crizotinib', 'Ceritinib'])
 
