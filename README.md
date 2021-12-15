@@ -10,12 +10,12 @@ Follow below Steps to run the Python code:
 
 Step:1 Download all files from the above GitHub url into Pycharm directory - C:\Users\username\PycharmProjects\pythonProject
 
-Step:2 Open pythonProject directory from Pycharm
+Step:2 Open pythonProject directory from Pycharm.
 
-Step:3 open the main.py file from pycharm and change the pd.read_excel( "path excel file saved directory")
+Step:3 open the main.py file from pycharm and change the pd.read_excel( "path excel file saved directory").
 
-Step:4 Make sure Imported libraries are installed 
+Step:4 Make sure the imported libraries in the main.py script have been installed before running the code. 
 
-Step:5 Run the Python script
+Step:5 Run the Python script.
 
-Step:6 Results will show up in console window
+Step:6 Results will show up in console window.
