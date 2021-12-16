@@ -13,7 +13,7 @@ Step:1 Download all files from the above GitHub url into Pycharm directory - C:\
 
 Step:2 Open pythonProject directory from Pycharm
 
-Step:3 open the main.py file from pycharm and change the pd.read_excel( "path where excel file saved directory")
+Step:3 open the main.py file from pycharm and change the pd.read_excel( "path where excel file 'Final_Drugs_Dataset_V3.xlsx' saved in a directory")
 
 Step:4 Make sure Imported libraries are installed 
 
