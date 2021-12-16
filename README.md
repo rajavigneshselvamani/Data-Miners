@@ -5,14 +5,15 @@
 -  Program: Master of Applied Computer Science
 -  University: St. Francis Xavier University Antigonish, Nova Scotia, Canada
 
+GitHub URL https://github.com/rajavigneshselvamani/Data-Miners
 
-Follow below Steps to run the Python code:
+Follow below Steps to run the Python code and get the result:
 
 Step:1 Download all files from the above GitHub url into Pycharm directory - C:\Users\username\PycharmProjects\pythonProject
 
 Step:2 Open pythonProject directory from Pycharm
 
-Step:3 open the main.py file from pycharm and change the pd.read_excel( "path excel file saved directory")
+Step:3 open the main.py file from pycharm and change the pd.read_excel( "path where excel file saved directory")
 
 Step:4 Make sure Imported libraries are installed 
 
