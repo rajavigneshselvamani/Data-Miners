@@ -2,6 +2,7 @@
 -  Research Project Name: Drug Integration: Repurposing of drugs by Biomarker correlation for Non-Small Cell Lung Cancer using Machine Learning Technique
 -  Team Name: Data-Miners
 -  Team Members: Raja Vighnesh Selvamani, Aditya Subodh Thakare, Thaanesh Srikumar 
+-  Supervisor: Dr.Othman Soufan
 -  Program: Master of Applied Computer Science
 -  University: St. Francis Xavier University Antigonish, Nova Scotia, Canada
 
